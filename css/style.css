@@ -96,14 +96,7 @@ button:focus {
   transition: 0.2s opacity;
 }
 
-.button__secondary {
-  background-color: var(--fourth-color);
-  color: white;
-  transition: 0.2s opacity;
-}
-
-.button,
-button {
+.button {
   border: none;
   display: inline-block;
   font-family: inherit;
@@ -114,6 +107,7 @@ button {
   padding: 10px;
   border-radius: 3px;
   border-bottom: 2px solid rgba(0, 0, 0, 0.3);
+  -webkit-transition: 0.2s opacity;
   transition: 0.2s opacity;
 }
 

@@ -102,29 +102,7 @@ button:focus {
   transition: 0.2s opacity;
 }
 
-.button__secondary {
-  background-color: #44008b;
-  color: white;
-  -webkit-transition: 0.2s opacity;
-  transition: 0.2s opacity;
-}
-
 .button {
-  border: none;
-  display: inline-block;
-  font-family: inherit;
-  background-color: #9f45b0;
-  color: white;
-  text-decoration: none;
-  margin: 10px;
-  padding: 10px;
-  border-radius: 3px;
-  border-bottom: 2px solid rgba(0, 0, 0, 0.3);
-  -webkit-transition: 0.2s opacity;
-  transition: 0.2s opacity;
-}
-
-button {
   border: none;
   display: inline-block;
   font-family: inherit;
