@@ -160,6 +160,16 @@ button:focus,
   list-style-type: none;
 }
 
+.contact-info {
+  display: block;
+  text-align: center;
+}
+
+form {
+  display: block;
+  text-align: center;
+}
+
 /* animation */
 @keyframes cloud-move {
   from {

@@ -171,6 +171,17 @@ button:focus,
   list-style-type: none;
 }
 
+.contact-info {
+  display: block;
+  text-align: center;
+}
+
+form {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
 /* animation */
 @-webkit-keyframes cloud-move {
   from {
