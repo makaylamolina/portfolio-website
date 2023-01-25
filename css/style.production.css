@@ -182,6 +182,12 @@ form {
   text-align: center;
 }
 
+.hometown-image {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
 /* animation */
 @-webkit-keyframes cloud-move {
   from {
