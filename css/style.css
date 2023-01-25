@@ -170,6 +170,11 @@ form {
   text-align: center;
 }
 
+.hometown-image {
+  height: auto;
+  max-width: 100%;
+}
+
 /* animation */
 @keyframes cloud-move {
   from {
